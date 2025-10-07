@@ -7,8 +7,8 @@ this app alows user to browse and search products, order and easily check status
 
 ## Teck Stack 
 
---**Bare react native** - for mobile UI development
---**Node.js/Express** - for backend/api
+- **Bare react native** - for mobile UI development
+- **Node.js/Express** - for backend/api
 
 ## Features
 
